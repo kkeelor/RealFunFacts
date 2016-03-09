@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "f53be1b41dfa49a21a75fed56fd6815e"
+build_time: [510346911, 55155000]
+inputs:
+  "/Users/Ghost316-MAC/Development/Practice/Real Fun Facts/RealFunFacts/RealFunFacts/ColorWheel.swift": [509438430, 0]
+  "/Users/Ghost316-MAC/Development/Practice/Real Fun Facts/RealFunFacts/RealFunFacts/ViewController.swift": [509716625, 0]
+  "/Users/Ghost316-MAC/Development/Practice/Real Fun Facts/RealFunFacts/RealFunFacts/AppDelegate.swift": [509092608, 0]
+  "/Users/Ghost316-MAC/Development/Practice/Real Fun Facts/RealFunFacts/RealFunFacts/RealFactBook.swift": [509696576, 0]

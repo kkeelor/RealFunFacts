@@ -43,12 +43,12 @@ class ViewController: UIViewController, UITableViewDelegate, UISearchBarDelegate
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return UIStatusBarStyle.LightContent
     }
-
+    
     @IBAction func showRealFunFact() {
         
         view.backgroundColor = colorWheel.randomColor()
         funFactLabel.text = factBook.randomFact()
-        
+        //Using Git
     }
 
 }
